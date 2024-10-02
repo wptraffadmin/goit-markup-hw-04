@@ -225,6 +225,10 @@ img {
     width: calc((100% - 72px) / 4);
 }
 
+.icon {
+    margin-top: 85px;
+}
+
 .icon-strategy {
     display: flex;
     align-items: center;
