@@ -454,6 +454,15 @@ img {
     --div-color: #f4f4fd;
 }
 
+.div-footer {
+    display: flex;
+    align-items: baseline;
+}
+
+.content-footer {
+    margin-right: 120px;
+}
+
 .footer-p {
     line-height: 1.5;
     letter-spacing: 0.02em;
