@@ -53,7 +53,6 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
 }
 
 .container-h1 {
@@ -433,6 +432,15 @@ img {
     padding: 100px 0;
 }
 
+.container .footer {
+    display: flex;
+    align-items: baseline;
+}
+
+.content-footer {
+    margin-right: 120px;
+}
+
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -455,15 +463,7 @@ img {
     --div-color: #f4f4fd;
 }
 
-.div-footer {
-    display: flex;
-    align-items: baseline;
-}
-
-.content-footer {
-    margin-right: 120px;
-    display: flex;
-}
+.div-footer {}
 
 .footer-p {
     line-height: 1.5;
