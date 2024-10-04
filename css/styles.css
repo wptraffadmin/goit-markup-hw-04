@@ -434,11 +434,11 @@ img {
 
 .footer-content {
     display: flex;
+    align-items: baseline;
 }
 
 .container .footer {
     display: flex;
-    align-items: baseline;
 }
 
 .content-footer {
