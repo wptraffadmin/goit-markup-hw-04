@@ -461,6 +461,7 @@ img {
 
 .content-footer {
     margin-right: 120px;
+    display: flex;
 }
 
 .footer-p {
