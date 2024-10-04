@@ -457,6 +457,13 @@ img {
     margin-bottom: 16px;
 }
 
+.footer-p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--footer-color);
+    max-width: 264px;
+}
+
 .footer-logo-studio {
     color: #f4f4fd;
 }
@@ -506,12 +513,4 @@ img {
     --div-color: #f4f4fd;
     --text-color: #FFFFFF;
     --icon-color: #f4f4fd;
-}
-
-
-.footer-p {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--footer-color);
-    max-width: 264px;
 }
