@@ -67,13 +67,6 @@ p {
     padding: 0 15px;
 }
 
-.container-h1 {
-    width: 1158px;
-    padding: 0 15px;
-    text-align: center;
-    margin: 0 auto;
-}
-
 .nav {
     display: flex;
     align-items: center;
@@ -181,10 +174,12 @@ p {
     max-width: 496px;
     margin: 0 auto;
     margin-bottom: 48px;
+    text-align: center;
 }
 
 
 .home-button {
+    display: block;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -199,6 +194,7 @@ p {
     background-color: var(--button-color);
     border-radius: 4px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 0 auto;
 }
 
 .home-button:hover {
